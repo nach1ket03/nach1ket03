@@ -42,7 +42,7 @@
 
 ## 🤝 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/nach1ket03/)
+- [LinkedIn](https://www.linkedin.com/in/nachiket03/)
 - 📧 Email: work.nachiketchole@gmail.com
 
 ---
