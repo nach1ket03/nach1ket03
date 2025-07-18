@@ -2,6 +2,7 @@
 
 🎓 MCA in Data Science @ MIT ADT  
 💻 Full Stack Developer (MERN Stack) | DSA in Java 
+
 🧠 Focused on consistency, growth & meaningful tech impact
 
 ---
