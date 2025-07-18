@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hey, I'm Nachiket
 
-<!--
-**nach1ket03/nach1ket03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA in Data Science @ MIT ADT  
+💻 Full Stack Developer (MERN Stack) | DSA in Java 
+🧠 Focused on consistency, growth & meaningful tech impact
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- **Languages:** Java, JavaScript, Python
+- **Frontend:** HTML, CSS, Tailwind, React JS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, MySQL
+- **Tools:** Git, GitHub, VS Code, Postman, Figma
+
+---
+
+## 🛠️ Projects
+
+- 🎓 **EduTech – College Website**  
+  _Built for academic use with HTML, CSS, JS_  
+  [🔗 View Repo](https://github.com/nach1ket03) |
+
+- 🧭 **Responsive Tour & Travel Website**  
+  _Beginner-level ReactJS Project_  
+  [🔗 View Repo](https://github.com/nach1ket03) |
+
+- 💻 **Frontend Mentor Challenges**  
+  _Improving UI skills through real-world projects_  
+  [📁 Repository](https://github.com/nach1ket03/frontend-mentor-challenges)
+
+---
+
+## 📚 Currently Learning
+
+- Advanced DSA (Java)
+- Full MERN Stack Projects
+
+---
+
+## 🤝 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/nach1ket03/)
+- 📧 Email: work.nachiketchole@gmail.com
+
+---
+
+> _“Discipline and growth over perfection. Stay consistent.”_
+
