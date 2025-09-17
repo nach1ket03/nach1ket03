@@ -21,7 +21,7 @@
 
 - 🎓 **EduTech – College Website**  
   _Built for academic use with HTML, CSS, JS_  
-  [🔗 View Repo](https://github.com/nach1ket03) |
+  [🔗 View Repo](https://nach1ket03.github.io/edutech/) |
 
 - 🧭 **Responsive Tour & Travel Website**  
   _Beginner-level ReactJS Project_  
