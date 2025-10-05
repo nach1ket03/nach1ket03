@@ -23,10 +23,6 @@
   _Built for academic use with HTML, CSS, JS_  
   [🔗 View Repo](https://nach1ket03.github.io/edutech/) |
 
-- 🧭 **Responsive Tour & Travel Website**  
-  _Beginner-level ReactJS Project_  
-  [🔗 View Repo](https://github.com/nach1ket03) |
-
 - 💻 **Frontend Mentor Challenges**  
   _Improving UI skills through real-world projects_  
   [📁 Repository](https://github.com/nach1ket03/frontend-mentor-challenges)
